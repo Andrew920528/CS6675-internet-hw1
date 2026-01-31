@@ -29,3 +29,7 @@ Run `playground/keyword_parser.py`
 Run `plotting.ipynb`
 
 - This gets all the output files and create plots and statistcs from them
+
+# Note:
+
+The crawled data is too large to be pushed. Therefore, they should be in `.gitignore`
