@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>http.agent.name</name>
+        <value>CS_6675_HW_1</value>
+    </property>
+
+    <property>
+        <name>fetcher.threads.per.queue</name>
+        <value>4</value>
+    </property>
+
+</configuration>

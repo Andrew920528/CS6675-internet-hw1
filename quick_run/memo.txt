@@ -1,0 +1,3 @@
+nutch/bin/nutch readdb crawl/crawldb -stats
+nutch/bin/nutch readlinkdb crawl/linkdb/ -dump linkContent    # need to delete linkContent
+readdb crawl/crawldb -stats -dump stat_read   # need to delete stat_read
