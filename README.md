@@ -7,9 +7,9 @@ For python, `pip install` missing packages as needed.
 # Deliverables
 
 1. `README.md` and executable code (follow the steps below to run the crawler & analysis) You can find the github repo here: (https://github.com/Andrew920528/CS6675-internet-hw1)
-2. Screenshots: Please find them in the `screenshots` folder
-3. Crawl Statistics: Please find the `crawl_analysis.pdf` in output folder, or manually run `crawl_analysis.py`
-4. Reflection and discussion. Please find it in a separate hw submission. A copy of it is saved as `reflection.pdf` in this repo.
+2. Screenshots: Please find them in the `screenshots` folder. `note.md` describes what each screenshot demonstrates.
+3. Crawl Statistics: Please find the `plotting.pdf` in output folder, or manually run `crawl_analysis.py` and `plotting.ipynb`.
+4. Reflection and discussion. Please find it in a separate hw submission. The reflection is also copied in `plotting.ipynb` in this repo.
 5. Seed url: Please find it in `urls/seed.txt`. It is innitialized as (https://www.cc.gatech.edu).
 
 # Procedure
