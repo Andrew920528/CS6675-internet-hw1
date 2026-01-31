@@ -1,11 +1,12 @@
 # Setup
 
-Please download Nutch from (https://nutch.apache.org/download/), extract the files and name it as "nutch".
+Please download Nutch from (https://nutch.apache.org/download/), extract the files and name it as "nutch". Make sure your java environment is set to Java 11.
+
 For python, `pip install` missing packages as needed.
 
 # Deliverables
 
-1. `README.md` and executable code (follow the steps below to run the crawler & analysis) You can find the github repo here:
+1. `README.md` and executable code (follow the steps below to run the crawler & analysis) You can find the github repo here: (https://github.com/Andrew920528/CS6675-internet-hw1)
 2. Screenshots: Please find them in the `screenshots` folder
 3. Crawl Statistics: Please find the `crawl_analysis.pdf` in output folder, or manually run `crawl_analysis.py`
 4. Reflection and discussion. Please find it in a separate hw submission. A copy of it is saved as `reflection.pdf` in this repo.
